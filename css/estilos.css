@@ -1,0 +1,75 @@
+.altura{
+    margin: 50px 0;
+}
+
+.logito{
+    height: 100px;
+    width: 200px;
+    
+}
+
+.video {
+    background-image: url(../img/medicossin.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 30px 0;
+    position: relative;
+    text-align: center;
+
+}
+
+video img{
+    width: 60px;
+    height: 60px;
+    position: relative;
+}
+footer{
+    background-color:black ;
+    padding: 10px;
+    text-align: center;
+}
+
+.carousel-caption {
+    position: absolute;
+    top: 15%;
+    bottom: 1.25rem;
+    padding-top: 1.25rem;
+    padding-bottom: 1.25rem;
+    color: #fff;}
+
+.tituloprincipal{
+    font-size: 60px;
+    color: rgb(33, 16, 189);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+}
+
+.textoportada{
+    font-size: 30px;
+    color: black;
+}
+
+.nosotros{
+    padding: 60px 0 60px 0;
+    background-image: url(../img/hospital.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center right;
+}
+
+.formulario{
+    width: 400px;
+}
+
+.botoncito{
+margin-top: 20px;
+margin-left: 300px;
+}
+
+.altura2{
+margin-top: 50px;
+}
+
+.padding{
+    margin-top: 20px;
+}
